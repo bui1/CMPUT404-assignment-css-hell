@@ -14,7 +14,7 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 # HTML Modifications
 
 - Removed the styling that came inside of each of the HTML files in the `<head>` tag
-- Linked an external CSS file it in the `<head>` tag so that each of the
+- Linked an external CSS file it in the `<head>` tag so that each of the Gutenberg html files reference it
 
 # References
 
