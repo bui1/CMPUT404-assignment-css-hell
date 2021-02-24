@@ -1,0 +1,88 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+body {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h1 {
+  font-size: 220%;
+}
+
+h2 {
+  font-size: 180%;
+}
+
+.banner {
+  width: auto;
+  background: red;
+  color: blue;
+}
+
+.sub-container {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  height: fit-content;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.aboutme {
+  text-align: left;
+  background-color: brown;
+}
+
+.aboutme h2 {
+  color: yellowgreen;
+}
+
+.aboutme p {
+  color: salmon;
+}
+
+.important-points {
+  height: 80vh;
+  width: 100%;
+  background-color: blueviolet;
+}
+
+.aboutme-subsection {
+  display: flex;
+  flex-direction: row;
+}
+
+img {
+  margin-right: 20px;
+}
+
+.p-style {
+  max-width: 85%;
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: palevioletred;
+
+  color: aqua;
+}
+
+.aboutme-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.important-points h3 {
+  color: crimson;
+}
+
+.important-points p {
+  color: aqua;
+}

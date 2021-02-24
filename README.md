@@ -47,7 +47,12 @@ How to make images grayscale
 
 How to make CSS gradients
 
-- From [Mozilla Docs](<https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient()>)
+- From [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient)
+
+Adding Comic Sans Font
+
+- From [StackOverflow](https://stackoverflow.com/a/21335048)
+- From [Guffa](https://stackoverflow.com/users/69083/guffa)
 
 # License/Copyright
 
