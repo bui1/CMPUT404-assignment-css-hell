@@ -15,6 +15,9 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 - Removed the styling that came inside of each of the HTML files in the `<head>` tag
 - Linked an external CSS file it in the `<head>` tag so that each of the Gutenberg html files reference it
+  like `<link rel="stylesheet" content="text/css" href="./gutenberg.css" />`
+- Took the existing CSS from `1.html` as a boilerplate starter for the shared `gutenberg.css` file that
+  every html file will use
 
 # References
 
@@ -41,6 +44,10 @@ How to make images grayscale
 
 - From [Stack Overflow](https://stackoverflow.com/a/8612047)
 - From [Salman von Abbas](https://stackoverflow.com/users/362006/salman-von-abbas)
+
+How to make CSS gradients
+
+- From [Mozilla Docs](<https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient()>)
 
 # License/Copyright
 
